@@ -16,13 +16,13 @@ Los datos se envían en pequeñas unidades que son almacenadas y redirigidas din
 * **Orientados a la Conexión**: Establece una conexión dedicada entre dos puntos antes de que se puedan transmitir datos. Se realiza una negociación de parámetros antes de enviar los datos. Una vez terminada la comunicación, la conexión se cierra.
 * **No Orientados a la Conexión**: Los datos se envían en forma de mensajes independientes, sin necesidad de establecer una conexión previa. No hay negociación previa de parámetros, y no se garantiza que los datos lleguen en un orden específico.
 ## Topologias
-![image](https://github.com/user-attachments/assets/9e10ffda-d076-444f-afa9-9ae8ad65ce32)
+![image](https://imgur.com/a/82ZzWWB)
 ### Quality Of Service
 Es el rendimiento visto por los usuarios de la red.
 ### Traffic Engineering
 Es la planificacion, diseño y desarrollo de las redes de acuerdo a las demandas para maximizar el rendimiento.
 # Modelos
-![image](https://github.com/user-attachments/assets/2654acdc-f3c0-499c-b7e4-557f7d7b8631)
+![image](https://imgur.com/a/7hvIuQz)
 # Capa de Enlace
 Se encarga de garantizar una comunicación eficiente y confiable entre dos máquinas.
 ### Sus principales funciones incluyen:

@@ -98,7 +98,7 @@ Facilita la conexión inalámbrica entre dispositivos.
 * 802.11g | 54 Mbps | 2,4 GHz.
 * 802.11ac (WiFi 5) 1,3 Gbps | 2,4 y 5 GHz.
 * 802.11ax (WiFi 6): Más eficiente | Mejor manejando muchos usuarios
-* ### SSID
+### SSID
 Es el identificador de la red inalámbrica (nombre de la red). Se puede ocultar.
 ### Beacon
 Es un tipo de paquete que los puntos de acceso WiFi envían periódicamente para anunciar la existencia de la red y proporcionar información de configuración.
